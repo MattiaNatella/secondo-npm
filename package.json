@@ -1,0 +1,19 @@
+{
+  "name": "secondo-npm",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "lstart":"node saluto.js",
+    "lwatch":"node --watch saluto.js",
+    "watch": "node --watch app.js",
+    "pstart": "node prodotti.js",
+    "pwatch": "node --watch prodotti.js"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
